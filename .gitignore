@@ -1,1 +1,5 @@
 /target
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/RustDesignPattern.iml
+/.idea/vcs.xml
